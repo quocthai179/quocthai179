@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-I'm a **Backend Software Engineer** with ~6 years of experience building enterprise-grade network management platforms. My daily work lives at the intersection of **distributed systems** and **networking protocols** — where a single misconfigured VRF can take down a customer's entire branch office.
+I'm a **Senior Engineer** building enterprise-grade network management platforms. My daily work lives at the intersection of **distributed systems** and **networking protocols** — where a single misconfigured VRF can take down a customer's entire branch office.
 
 - 🔭 Currently building **network management microservices** 
 - 🌱 Exploring **Model Context Protocol (MCP)** servers and agentic developer tooling
