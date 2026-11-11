@@ -75,8 +75,6 @@ I'm a **Senior Engineer** building enterprise-grade network management platforms
 
 <img src="https://streak-stats.demolab.com?user=quocthai179&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=quocthai179&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-
 </div>
 
 ---
